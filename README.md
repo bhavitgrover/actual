@@ -1,4 +1,4 @@
-i wonder who the owner of this fork is 🤔🤔🤔
+what is my profile on the fork owner's creation
 
 ## Getting Started
 
