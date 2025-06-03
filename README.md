@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="/demo.png" alt="Actualbudget" />
-</p>
+th3doctor, naam to suna hi hoga
 
 ## Getting Started
 
